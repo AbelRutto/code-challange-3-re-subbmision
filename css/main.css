@@ -1,0 +1,64 @@
+#filmTitle{
+    text-align: center;
+    color: rgb(20, 12, 1);
+}
+
+body{
+    background-image: url(/images/dog.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#showingTitle{
+    text-align: center;
+    color: rgb(158, 135, 222);
+
+}
+#headTitle{
+    text-align: center;
+    color: rgb(135, 202, 222);
+}
+#mviedet{
+    list-style: none;
+}
+/* #runtime{
+    background-color: rgb(0, 92, 0);
+} */
+#poster{
+    width: 680px;
+    height: 610px;
+    color: rgb(80, 50, 12);
+}
+
+.test{
+    margin: 20px;
+    border-radius: 8px;
+}
+
+#headTitle {
+    font-family: 'Zen Dots', cursive;
+    color: blueviolet;
+}
+#descript{
+    font-family: 'Caveat', cursive;
+}
+#movieDescription{
+    text-align: center;
+    background-color: burlywood;
+}
+#mvie {
+    background-color: blueviolet;
+}
+
+.sinema:hover {
+    cursor: pointer;
+    padding: 20px;
+    background-color: aqua;
+
+}
+
+#listCont {
+    background-color: darkmagenta;
+}
